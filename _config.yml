@@ -121,14 +121,14 @@ author:
   avatar           : "/assets/mimoji.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science and Engineering Student"
   location         : "Seoul, South Korea"
-  email            :
+  email            : "qkralthf1234@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:qkralthf1234@gmail.com"
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://misolpark.github.io"
+      url: "https://www.linkedin.com/in/misolpark/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
