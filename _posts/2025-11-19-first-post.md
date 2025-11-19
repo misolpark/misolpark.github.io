@@ -1,7 +1,13 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2025-11-19 08:26:28 -0400
-categories: jekyll update
+title: 포스팅 제목
+date: 2025-11-19 15:09:00 +09:00
+categories: [메인 카테고리, 서브 카테고리]
+tags:
+  [
+    태그1,
+    태그2,
+    태그3,
+  ]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
