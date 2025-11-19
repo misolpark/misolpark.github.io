@@ -120,7 +120,7 @@ author:
   name             : "Misol Park"
   avatar           : "/assets/mimoji.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science and Engineering Student"
-  location         : "Seoul, Republic of Korea"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
